@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @kavinram247
-- 👀 I’m interested in ... social engineering 
-- 🌱 I’m currently learning ... -
-- 💞️ I’m looking to collaborate on ...-
-- 📫 How to reach me ...-
+- 👀 I’m interested in ... developing apps and ethical hacking 
+- 🌱 I’m currently learning ... brute force
+- mail me at electricbugbear@gmail.com
+- looking for colab// app development
 
-<!---
-kavinram247/kavinram247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
